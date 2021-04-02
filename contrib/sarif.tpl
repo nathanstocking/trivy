@@ -8,7 +8,7 @@
           "name": "Trivy",
           "informationUri": "https://github.com/aquasecurity/trivy",
           "fullName": "Trivy Vulnerability Scanner",
-          "version": "v0.15.0",
+          "version": "0.15.0",
           "rules": [
         {{- $t_first := true }}
         {{- range . }}
